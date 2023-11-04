@@ -1,0 +1,18 @@
+$color-scheme: sa4zet;
+$body-background-color: $grey-dk-300;
+$body-heading-color: $grey-dk-000;
+$body-text-color: $grey-dk-000;
+$link-color: $green-100;
+$nav-child-link-color: $green-100;
+$sidebar-color: $grey-dk-300;
+$base-button-color: $grey-dk-250;
+$btn-primary-color: $blue-200;
+$code-background-color: $black;
+$code-linenumber-color: $white;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$search-result-preview-color: $grey-dk-000;
+$border-color: $grey-dk-200;
+
+@import "./rouge";
