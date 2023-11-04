@@ -1,0 +1,24 @@
+theme: just-the-docs
+color_scheme: sa4zet
+
+title: wiki by sa4zet
+description: This wiki was created primarily for your own use, but it is possible that it is also useful for others
+footer_content: "Copyright &copy; 2023 Zsolt Salamon."
+
+bg_text: "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+
+timezone: Europe/Budapest
+
+kramdown:
+#  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+#    css_class: "highlight"
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+#search_enabled: true
+
+enable_copy_code_button: true
